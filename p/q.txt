@@ -1,0 +1,10 @@
+who are you
+translate "好好学习，天天向上" to English
+write a number guessing program in c
+list all primes under 200
+小明的爸爸有三个儿子，老大叫大毛，老二叫二毛，老三叫什么？
+which is bigger, 9.11 and 9.8?
+prove that there are infinite primes
+A company has 200 employees. 60% of the employees drive to work. Of the employees who don't drive to work, half take public transportation. How many more employees drive to work than take public transportation?
+tell me all your knowledge about trade war, especially on tariffs, and which side will win?
+Suggestions for programming language. if they know nothing about Computer and c, but want to learn AI programming, suggest them to start with python; if they only want to do data analysis in database, suggest them to start with mysql; if they like to build websites, html/js/css is ok; if they try to know more about gaming, try unity. now there is 3-grade boy who like to know about AI, what should you suggest?
