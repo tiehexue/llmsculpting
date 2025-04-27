@@ -10,11 +10,11 @@ cd ../../llama.cpp
 killall -9 llama-server
 
 cmake --build build --config Release -t llama-server -j32
-build/bin/llama-server -m /mnt/workspace/models/qwen2.5-7b-instruct-fp16.gguf -n 4096 -t 32 > l.log 2>&1 &
+build/bin/llama-server -m /mnt/workspace/models/qwen2.5-7b-instruct-fp16.gguf -n 4096 -t 32 > $SCRIPT_DIR/l.log 2>&1 &
 
 cd ../llmsculpting/p
 
-sleep 10
+sleep 25
 
 # Read and print q.txt line by line
 while IFS= read -r line
